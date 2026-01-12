@@ -43,3 +43,27 @@ PUT /api/v1/incidents/{id}/status
 ##  Запуск
 ```bash
 mvn spring-boot:run
+
+Стек 
+
+Java 17
+
+Spring Boot
+
+Spring Web
+
+Spring Data JPA
+
+PostgreSQL
+
+MapStruct
+
+Lombok
+
+Hibernate
+
+SLF4J + Logback
+
+JUnit 5
+
+Docker (опционально)
